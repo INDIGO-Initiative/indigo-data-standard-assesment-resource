@@ -1,6 +1,6 @@
 import os
 
-project = 'INDIGO Data Standard'
+project = 'INDIGO Data Standard Impact Wayfinder'
 
 extensions = ['indigosphinxcontrib.datadictionary']
 

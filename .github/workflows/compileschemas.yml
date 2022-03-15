@@ -12,11 +12,5 @@ jobs:
         python-version: 3.8
         architecture: x64
     - run: pip install compiletojsonschema==0.3.0
-    - name: Compile Projects
-      run: "compiletojsonschema --codelist-base-directory schema/codelists schema/project.json"
-    - name: Compile Funds
-      run: "compiletojsonschema --codelist-base-directory schema/codelists schema/fund.json"
-    - name: Compile Organisations
-      run: "compiletojsonschema --codelist-base-directory schema/codelists schema/organisation.json"
     - name: Compile Assessment Methods
       run: "compiletojsonschema --codelist-base-directory schema/codelists schema/assessment_resource.json"
