@@ -1,5 +1,5 @@
-# indigo-data-standard
+# indigo-data-standard-impact-wayfinder
 
-See https://indigo-data-standard.readthedocs.io
+See https://indigo-data-standard-impact-wayfinder.readthedocs.io/en/stable/
 
 
